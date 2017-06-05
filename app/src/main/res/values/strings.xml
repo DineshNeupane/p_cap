@@ -1,0 +1,75 @@
+<resources>
+    //Category Titles
+
+    <string name="attitude">Attitude</string>
+    <string name="love">Love</string>
+    <string name="life">Life</string>
+    <string name="ex">Ex</string>
+    <string name="smile">Smile</string>
+    <string name="happiness">Happiness</string>
+    <string name="sadness">Sadness</string>
+    <string name="friendship">Friendship</string>
+    <string name="birthday">Birthday</string>
+    <string name="family">Family</string>
+    <string name="funny">Funny</string>
+    <string name="motivation">Motivation</string>
+    <string name="pets">Pets</string>
+    <string name="fashion">Fashion</string>
+    <string name="thoughts">Thoughts</string>
+    <string name="simplicity">Simplicity</string>
+
+
+
+
+
+    <string name="app_name">Photo Captions</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="collapsing_toolbar_fragment_title">Quick Captions</string>
+    <string name="fab_fragment_title">Add Your Caption</string>
+
+
+
+    <string name="cat1_fragment_title">Category1</string>
+
+
+
+
+
+    <string name="fav_fragment_title">Favourites</string>
+    <string name="tab_fragment_title">Categories</string>
+    <string name="about_fragment_title">About</string>
+
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+
+    <string name="title_input_hint">Title</string>
+    <string name="content_input_hint">Content</string>
+
+    <string name="dialog_title">Add item</string>
+
+    <string name="dummy_string"> Call me maybe
+
+
+         </string>
+
+    <string name="edittext_error">Can\'t be empty</string>
+    <string name="titletext_error">Title can\'t be empty</string>
+    <string name="contenttext_error">Content can\'t be empty</string>
+    <string name="title_content_error">Title &#038; Content can\'t be empty</string>
+    <string name="text_success">Item added</string>
+    <string name="text_undo">UNDO</string>
+    <string name="text"> </string>
+    <string name="text_about"> </string>
+
+    <string name="google_license">
+
+
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

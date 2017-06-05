@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/navigation_menu">
+
+    <group >
+        <item
+            android:id="@+id/item_grid"
+            android:title="Categories"
+            android:icon="@mipmap/ic_grid"/>
+
+        <item
+            android:id="@+id/item_collapsing_toolbar"
+            android:title="Quick Captions"
+            android:checked="true"
+            android:icon="@mipmap/ic_quick"/>
+
+        <item
+            android:id="@+id/item_favourites"
+            android:title="Favourites"
+            android:icon="@mipmap/ic_fav"/>
+
+        <item android:title="Categories">
+            <menu>
+
+                <item
+                    android:id="@+id/item_fab"
+                    android:title="Add New Caption "
+                    android:icon="@mipmap/ic_add"
+                    />
+
+
+
+                <item
+                    android:id="@+id/item_share"
+                    android:title="Share This App"
+                    android:icon="@mipmap/ic_share"/>
+
+
+
+                <item
+                    android:id="@+id/item_about"
+                    android:title="About"
+                    android:icon="@mipmap/ic_info"
+                    />
+
+
+
+
+
+            </menu>
+        </item>
+
+
+
+
+
+
+
+
+
+
+
+    </group>
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>

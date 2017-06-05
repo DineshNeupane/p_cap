@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Attitude Fragment
+    <array name="attitude_title">
+        <item>1/100</item>
+        <item>2/100</item>
+        <item>3/100</item>
+    </array>
+    <array name="attitude_content">
+        <item>First quote for Attitude fragment</item>
+        <item>Second quote for Attitude fragment</item>
+        <item>Third quote for Attitude fragment</item>
+    </array>
+
+
+
+    //Love Fragment
+    <array name="love_title">
+        <item>1/100</item>
+        <item>2/100</item>
+        <item>3/100</item>
+    </array>
+    <array name="love_content">
+        <item>First quote for Attitude fragment</item>
+        <item>Second quote for Attitude fragment</item>
+        <item>Third quote for Attitude fragment</item>
+    </array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <array name="IconsForCategory">
+        <item>@mipmap/ic_launcher</item>
+
+    </array>
+
+    <string-array name="TextForCategory">
+        <item> This is a quote for category</item>
+    </string-array>
+
+
+
+    //Favourites
+    <string-array name="fav_cards">
+        <item>Worth</item>
+    </string-array>
+    <string-array name="fav_cards_content">
+        <item>This is the array content for fav fragment</item>
+
+    </string-array>
+
+
+
+
+    //Category1
+    <string-array name="cat1_cards">
+        <item>Category One</item>
+    </string-array>
+    <string-array name="cat1_cards_content">
+        <item>This is the array content for fav fragment</item>
+
+    </string-array>
+
+
+
+
+
+    <string-array name="card_titles">
+        <item>1/100</item>
+        <item>Title 2</item>
+        <item>Title 3</item>
+        <item>Title 4</item>
+        <item>Title 5</item>
+        <item>Title 6</item>
+        <item>Title 7</item>
+        <item>Title 8</item>
+        <item>Title 9</item>
+        <item>Title 10</item>
+        <item>Title 11</item>
+        <item>Title 12</item>
+        <item>Title 13</item>
+        <item>Title 14</item>
+        <item>Title 15</item>
+        <item>Title 16</item>
+        <item>Title 17</item>
+        <item>Title 18</item>
+        <item>Title 19</item>
+        <item>Title 20</item>
+        <item>Title 21</item>
+        <item>Title 22</item>
+        <item>Title 23</item>
+        <item>Title 24</item>
+        <item>Title 25</item>
+        <item>Title 26</item>
+        <item>Title 27</item>
+        <item>Title 28</item>
+        <item>Title 29</item>
+        <item>Title 30</item>
+        <item>Title 31</item>
+    </string-array>
+
+    <string-array name="card_contents">
+        <item>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>31st item</item>
+
+    </string-array>
+
+</resources>
